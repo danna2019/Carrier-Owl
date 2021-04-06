@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        network emulation: 3
+        network simulation: 3
+        network testbed: 3
 
 # 通知の閾値
 score_threshold: 0
