@@ -8,6 +8,12 @@ keywords:
         testbed: 1
         verification: 1
         network: 1
+        NPL: 1
+        p4: 1
+        fpga: 1
+        consensus: 1
+        PAXOS: 1
+        BFT: 1
 
 # 通知の閾値
 score_threshold: 2
