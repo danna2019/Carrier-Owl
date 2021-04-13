@@ -3,10 +3,6 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        network emulation: 3
-        network simulation: 3
-        network testbed: 3
-        network verification: 3
         simulation: 1
         emulation: 1
         testbed: 1
@@ -14,4 +10,4 @@ keywords:
         network: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
