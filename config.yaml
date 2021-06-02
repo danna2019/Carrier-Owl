@@ -17,6 +17,7 @@ keywords:
         BFT: 1
         bpf: 1
         formal method: 1
+        formal verification: 1
 
 # 通知の閾値
 score_threshold: 2
