@@ -18,6 +18,12 @@ keywords:
         bpf: 1
         formal method: 1
         formal verification: 1
+        model check: 1
+        temporal logic: 1
+        TLA+: 1
+        TLA: 1
+        mininet: 1
+        GNS3: 1
 
 # 通知の閾値
 score_threshold: 2
