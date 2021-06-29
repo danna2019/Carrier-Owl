@@ -24,6 +24,8 @@ keywords:
         TLA: 1
         mininet: 1
         GNS3: 1
+        high level synthesis: 1
+        HLS: 1
 
 # 通知の閾値
 score_threshold: 2
